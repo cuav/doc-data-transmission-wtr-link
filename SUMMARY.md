@@ -1,3 +1,6 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [概述](README.md)
+* [使用手册](use-manual.md)
+* FAQ
+
