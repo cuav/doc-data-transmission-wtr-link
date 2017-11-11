@@ -2,8 +2,9 @@
 
 ---
 
-|  |  |
+| SSID | CUAV\_WTR\_XXXXX |
 | :--- | :--- |
+| Password | cuavwtr666 |
 | 无线标准 | IEEE 802.11g、IEEE 802.11b |
 | 传输速率 | 11g：最高可达 54Mbps、11b：最高达 11Mbps |
 | WIFI通讯距离 | 150-500米（视 电脑或者手机） |
