@@ -12,3 +12,5 @@ WIFI密码为：cuavwtr666  （小写）
 
 通过下载CUAV [HFlight](http://fw.cuav.net/apk/HFlight.apk) APP进行修改
 
+http://fw.cuav.net/apk/HFlight.apk
+
