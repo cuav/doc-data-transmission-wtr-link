@@ -1,52 +1,49 @@
-# 软件使用说明 {#软件使用说明}
+#Software Instructions {#Software Instructions}
 
-### HFlight 连接方式 {#hflight-连接方式}
+### HFlight connection method {#hflight-connection method}
 
 ---
 
-**HFlight**安卓手机地面站是**雷迅（CUAV）**官方推广的手机地面站，完美地兼容本公司所有产品，欢迎广大模友下载使用。软件下载链接：[HFlight](http://fw.cuav.net/apk/HFlight.apk)。
+**HFlight** Android mobile phone ground station is a mobile ground station officially promoted by **Leixun (CUAV)**. It is perfectly compatible with all products of the company and is welcome to download and use. Software download link: [HFlight] (http://fw.cuav.net/apk/HFlight.apk).
 
-对于 PW-Link 无线数传模块，HFlight 获取和显示飞控信息的步骤如下：
+For PW-Link wireless data transmission module, HFlight acquires and displays flight control information as follows:
 
-1. 确认 PW-Link 与 Pix 飞控已经连接正常；
+1. Make sure that the PW-Link and Pix flight controllers are connected properly.
 
-2. 手机搜索 WiFi 网络，连接名称为：**CUAVWTR\_XXXXXX**的网络,默认密码:cuavwtr666.
+2. The mobile phone searches for the WiFi network, the connection name is: **CUAVWTR\_XXXXXX**, the default password: cuavwtr666.
 
-3. 打开 HFlight 手机软件，选择**UDP**连接方式，操作如图；
+3. Open HFlight mobile software, select **UDP** connection mode, operation as shown in figure;
 
-![](/assets/无标题.jpg)
+![](/assets/Untitled.jpg)
 
-4.确认 UDP 服务器通信端口，检查端口是否为**14550**；
+4. Confirm the UDP server communication port and check if the port is **14550**;
 
 ![](/assets/1.jpg)
 
-5.最后点击**连接**按钮，成功获取飞控信息后，数据界面会显示出来；
+5. Finally, click on the **Connect** button. After successfully obtaining the flight control information, the data interface will be displayed.
 
-### HFIight修改配置
-
----
-
-HFlight 提供了修改 PW-Link 网络配置的窗口，允许修改网络的**名称**、**密码**、**信道**和**获取版本信息**。具体的操作方式是，首先打开 HFlight 手机软件的侧边栏菜单，点击系统按钮，进入到系统设置界面，长按网络设置图标即可。操作如图所示：
-
-![](/assets/WTR1.jpg)PW-Link 配置窗口的具体操作步骤是，首先点击查询按钮获取 PW-Link 模块的网络信息，获取成功后，修改对应的选项即可。操作如图所示：
-
-### ![](/assets/WTR.jpg)Mission Planner 连接方式
+### HFIight Modify Configuration
 
 ---
 
-电脑端的地面站软件以 Mission Planner 进行操作说明。具体步骤如下：
+HFlight provides a window to modify the PW-Link network configuration, allowing you to modify the network's **name**,**password**,**channel**, and**for version information**. The specific operation method is to first open the HFlight mobile phone software side menu, click the system button, enter the system settings interface, long press the network settings icon. The operation is shown in the figure:
 
-1. 电脑使用无线网卡连接网络**CUAVWlink\_XXXXXX**，密码**cuavwlink**；
+![](/assets/WTR1.jpg) The specific procedure for the PW-Link configuration window is to first click on the query button to obtain the network information of the PW-Link module. After the success, modify the corresponding options. The operation is shown in the figure:
 
-2. 打开 Mission Planner 软件，选择右上角选项**UDP**方式，点击连接按钮；
+### ![](/assets/WTR.jpg) Mission Planner connection
 
-3. 最后，在弹出的端口编辑栏输入**14550**，点击确认；
+---
 
-4. 等待数据接收完成；
+The computer-side ground station software is operated by Mission Planner. Specific steps are as follows:
 
-> 注意：有部分用户反映，电脑已经连接上了 PW-Link 网络，但是 Mission Planner 无法接收到数据。出现这个问题的原因是因为你禁用了网络权限导致的。
+1. The computer uses a wireless network card to connect to the network **CUAVWlink\_XXXXXX**, password **cuavwlink**;
+
+2. Open the Mission Planner software, select the option **UDP** in the upper right corner, and click the Connect button;
+
+3. Finally, enter **14550** in the popup port edit field and click OK;
+
+4. Wait for data reception to complete;
+
+> Note: Some users report that the computer is connected to the PW-Link network, but the Mission Planner cannot receive data. The reason for this problem is because you have disabled network permissions.
 >
-> 解决办法：打开**控制面板**&gt;**Windows 防火墙**&gt;**允许应用通过防火墙进行通信**&gt;**打开 MP 全部网络权限**。
-
-
-
+> Workaround: Open the **Control Panel**&gt;**Windows Firewall**&gt;**Allow apps to communicate through the firewall**&gt;**Open MP All Network Permission**.
