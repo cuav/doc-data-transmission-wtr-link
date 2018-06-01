@@ -1,20 +1,20 @@
-## FAQ常见问题
+## FAQ
 
----
+-
+--
 
-#### WTR 的WIFI名称及密码
+#### WTR's WIFI Name and Password
 
-SSID为 CUAV WTR\_XXX  （XXX为根据内部mac地址生成）
+SSID is CUAV WTR\_XXX (XXX is generated based on internal mac address)
 
-WIFI密码为：cuavwtr666  （小写）
+The WIFI password is: cuavwtr666 (small letter)
 
-#### 怎么修改WTR的WIFI名称和密码
+#### How to change WTR WIFI name and password
 
-通过下载CUAV [HFlight](http://fw.cuav.net/apk/HFlight.apk) APP进行修改
+Modify by downloading the CUAV [HFlight] (http://fw.cuav.net/apk/HFlight.apk) APP
 
-[http://fw.cuav.net/apk/HFlight.apk](http://fw.cuav.net/apk/HFlight.apk)
+[http://fw.cuav.net/apk/HFlight.apk] (http://fw.cuav.net/apk/HFlight.apk)
 
-#### 支持波特率类型
+#### Support baud rate type
 
-目前支持57600以及115200波特率自适应
-
+Currently supports 57600 and 115200 baud rate adaptation
