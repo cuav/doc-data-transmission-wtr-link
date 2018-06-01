@@ -1,34 +1,33 @@
-# WTR- Wifi to Radio 模块
+#WTR- Wifi to Radio Module
 
 ---
 
-## 概述：
+## Summary:
 
-WTR是由CUAV全新推出的一款应用于 无人机地面站端 WIFI转数传的转发模块，将地面端数传数据转换为无线WIFI数据，实现电脑或者手机 WIFI无线连接无人机，代替传统的蓝牙转数传模块，实现更高可靠性和便捷性
+WTR is a new forwarding module applied to UAV ground station WIFI revolution data transmission by CUAV. It converts terrestrial end-to-end data into wireless WIFI data and implements computer or mobile WIFI wireless connection to drones instead of traditional ones. Bluetooth transfer module for higher reliability and convenience
 
-### 产品图示：
-
-
+### Product Graphic:
 
 
 
-### 无线转发互联
 
-在特殊无人机作业时，往往需要远距离的通讯链路数传，而传统的远距离数传只能通过有线进行跟电脑通讯连接，这样会使操作人员在临时架设地面通讯站时很受约束。
 
-使用WTR后，这些问题一却不复返，WTR将地面端的数传TTL信号，转换成WIFI 信号，通过手机或者电脑进行连接，使地面数传直接可以架设在高处，从而无人机通讯距离更远、更稳定。
+### Wireless Forwarding Internet
 
-### 支持多设备
+In the case of special drone operations, long-distance communication links are often required, while traditional long-distance digital transmissions can only be connected to the computer through wired communication. This will make operators very vulnerable when temporarily setting up terrestrial communication stations. constraint.
 
-WTR 可以将TTL信号转换成WIFI热点，并通过UPD进行转发和接收，可支持电脑和手机 多个设备同时连接
+After WTR is used, these problems never return. WTR converts the digital TTL signal at the ground end into a WIFI signal and connects it through a mobile phone or a computer so that the ground data can be directly set at a high place, thus the UAV communication distance. Farther and more stable.
 
-### 内置容错算法
+### Support multiple devices
 
-在实际应用中，在信号不理想时，容易产生数据的不完整和错乱
+WTR can convert TTL signals into WIFI hotspots and forward and receive them through UPD to support simultaneous connection of computers and mobile phones.
 
-WTR 模块 内置了高性能的Mavlink飞行数据校验和容错算法，通过算法将接收和发送的数据二次处理，避免数据的不完整和数据错误。
+### Built-in fault tolerance algorithm
 
-### 系统框架图
+In practical applications, when the signal is not ideal, it is easy to produce incomplete and disordered data.
+
+The WTR module has a high-performance Mavlink flight data checksum and fault tolerance algorithm built in, and uses the algorithm to process the received and sent data twice, avoiding incomplete data and data errors.
+
+### System Framework Diagram
 
 ![](/assets/WTR24.jpg)
-
