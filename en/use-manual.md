@@ -1,37 +1,34 @@
-### 系统框架图
+### System Framework Diagram
 
 ![](/assets/WTR24.jpg)
-###CUAV P900连接使用
+###CUAV P900 connection use
 
-飞机端按照 P900正常连接方式连接飞控；地面端通过cuav官方制作的wtr link与P900连接线连接
+The aircraft is connected to the flight controller according to the normal connection of the P900; the ground end is connected to the P900 cable through the official cuav wtr link.
 
-供电电压：5v+-0.25v
+Supply voltage: 5v+-0.25v
 
-供电电流：1A以上
-
----
-
-### CUAV S3B 连接使用
-
-飞机端按照 P900正常连接方式连接飞控；地面端通过cuav官方制作的wtr link与xbee连接线连接
-
-供电电压：5v+-0.25v
-
-供电电流：1A以上
+Supply current: more than 1A
 
 ---
 
-### CUAV XTEND连接使用
+### CUAV S3B connection use
 
-飞机端按照 P900正常连接方式连接飞控；地面端通过cuav官方制作的wtr link与xteng连接线连接
+The aircraft is connected to the flight controller in accordance with the P900 normal connection; the ground end is connected to the xbee cable via the official cuav wtr link.
 
-供电电压：5v+-0.25v
+Supply voltage: 5v+-0.25v
 
-供电电流：1A以上
+Supply current: more than 1A
+
+---
+
+### CUAV XTEND connection use
+
+The aircraft is connected to the flight controller according to the normal connection of the P900; the ground end is connected to the xteng cable through the official craav link made by cuav.
+
+Supply voltage: 5v+-0.25v
+
+Supply current: more than 1A
 
 ---
 
 ---
-
-
-
