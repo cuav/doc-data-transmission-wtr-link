@@ -1,30 +1,27 @@
-## 更新程序说明
+## update program description
 
-目前对于 wtr-Link 模块并没有提供在线更新程序，需要用户手动更新程序。需要下载[烧录软件](http://fw.cuav.net/pc/ESP8266Flasher.rar)和[最新版程序包](http://fw.cuav.net/pc/wtrlink.rar)并解压文件包。具体的烧录步骤如下：
+At present, there is no online update program for the wtr-Link module, which requires the user to manually update the program. Need to download [burn software] (http://fw.cuav.net/pc/ESP8266Flasher.rar) and [the latest version of the package] (http://fw.cuav.net/pc/wtrlink.rar) and unzip Packages. The specific programming steps are as follows:
 
-1.行烧录软件ESP8266Flasher.exe，点击**Advanced**选项，修改对应选项如图；
+1 line burning software ESP8266Flasher.exe, click the ** Advanced** option, modify the corresponding options as shown;
 
 ![](/assets/wtr5.jpg)
 
-2.点击**Config**选项，点击右边三角符号把文件名称改为如下图，看绿色字体区域，点击该区域三角图标
+2. Click on the **Config** option and click on the right triangle to change the file name to the following image. Look at the green font area and click on the area triangle icon
 
-找到右边名称相同的文件，点击打开就设置好了文件路径。
+Find the file with the same name on the right and click Open to set the file path.
 
-（注意绿色区域的文件路径要对应右边白色字体的文件名称）
+(Note that the file path of the green area corresponds to the file name of the right white font)
 
 ![](/assets/wtr111.png)
 
-3.点击**Operation**选项，使用**烧录线**将 TTL 板与 电脑usb相连（可自制烧录线，看ttl小板及wtr\_link背后标识，将gnd、5v对应接上，rx、tx交叉接）选择对应的端口\(端口可在我的电脑》设备管理器》端口处查看），按住数传模块recovery按键并给模块上电，点击**Flash**按钮;
+3. Click **Operation** option, use ** burn line ** to connect the TTL board with the computer usb (you can make a burn line, see the ttl board and wtr\_link behind the logo, the gnd, 5v corresponding to connect , rx, tx cross-connect) Select the corresponding port \ (port can be viewed at the My Computer "device manager" port), hold down the data recovery module recovery button and power module, click the ** Flash** button;
 
 ![](/assets/wtr3.jpg)
 
-4.烧录成功提示图如下（烧录成功模块D2 led会闪\)
+4. Prompt success map is as follows (D2 will be flashed after successful burning module)
 
 ![](/assets/wtr4.jpg)
 
-###### 目前最新版本为：2.0.0，支持模块正常运行后，IO0 短接 GND 超过 5S 即恢复网络默认配置的功能，蓝灯常亮或者熄灭表示恢复完成。切记不要同时短接和上电，这样是进入烧录程序模式。
+###### The latest version is: 2.0.0. After the module is running normally, IO0 is shorted to GND over 5S to restore the default configuration of the network. The blue light is on or off indicates that the recovery is complete. Remember not to short-circuit and power up at the same time. This is to enter the programming mode.
 
-###### 
-
-
-
+######
