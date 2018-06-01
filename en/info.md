@@ -1,29 +1,29 @@
-# 技术规格
+#  Technical Specifications 
 
 ---
 
 |  |  |
 | :--- | :--- |
-| 无线标准 | IEEE 802.11g、IEEE 802.11b |
-| 传输速率 | 11g：最高可达 54Mbps、11b：最高达 11Mbps |
-| WIFI通讯距离 | 150-500米（视 电脑或者手机） |
-| 波特率 | 57600 |
-| 连接方式 | UDP：14550 |
-| 信道范围 | 1 - 13（默认 11 通道） |
-| 频率范围 | 2412 - 2472MHz |
-| 发射功率 | 18dbm |
-| 天线类型 | SMA 类型 |
-| 无线安全 | WPA/WPA2 安全机制 |
-| 通信协议 | Malvink+透传 |
-| 通信速率 | 57600 |
-| 工作电压 | 5V +- 0.25V |
-| 工作电流 | 100MA |
-| 工作温度 | -20 - 50°C |
-| 工作湿度 | 10% - 90%RH（不凝结） |
-| 存储温度 | -40 - 80°C |
-| 存储湿度 | 5% - 90%RH（不凝结） |
+| Wireless standard | IEEE 802.11g、IEEE 802.11b |
+| transmission speed | 11g: up to 54Mbps, 11b: up to 11Mbps |
+|WIFI communication distance| 150-500meters（Computer or mobile phone） |
+| Baud rate | 57600 |
+| Link method | UDP：14550 |
+| Channel range | 1 - 13 (default 11 channels) |
+|  frequency range  | 2412 - 2472MHz |
+| transmitting power | 18dbm |
+| Antenna type| SMA type |
+| Wireless security | WPA/WPA2 Security mechanism |
+| communicating protocol | Malvink+Transparent transmission |
+| traffic rate 57600 |
+|  working voltage| 5V +- 0.25V |
+|  working current  | 100MA |
+| working temperature | -20 - 50°C |
+| Working humidity | 10% - 90%RH（noncondensing） |
+| Storage temperature | -40 - 80°C |
+| Storage humidity | 5% - 90%RH（noncondensing） |
 |  |  |
-| WIFI 信息 |  |
+| WIFIinformation |  |
 | SSID | CUAV\_WTR\_XXXXXX |
 | Passwrd | cuavwtr666 |
 
