@@ -4,7 +4,7 @@
 
 1.行烧录软件ESP8266Flasher.exe，点击**Advanced**选项，修改对应选项如图；
 
-![wtr5](/assets/wtr5.jpg)
+![wtr5](../../assets/wtr5.jpg)
 
 2.点击**Config**选项，点击右边三角符号把文件名称改为如下图，看绿色字体区域，点击该区域三角图标
 
