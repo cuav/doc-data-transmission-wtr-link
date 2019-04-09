@@ -1,7 +1,6 @@
 ## FAQ
 
--
---
+---
 
 #### WTR's WIFI Name and Password
 
