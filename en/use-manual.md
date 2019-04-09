@@ -1,6 +1,6 @@
 ### System Framework Diagram
 
-![WTR24](../../assets/WTR24.jpg)
+![WTR24](../assets/wtr24.jpg)
 ###CUAV P900 connection use
 
 The aircraft is connected to the flight controller according to the normal connection of the P900; the ground end is connected to the P900 cable through the official cuav wtr link.
