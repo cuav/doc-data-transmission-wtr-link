@@ -6,13 +6,13 @@
 
 **HFlight**安卓手机地面站是**雷迅（CUAV）**官方推广的手机地面站，完美地兼容本公司所有产品，欢迎广大模友下载使用。软件下载链接：[HFlight](http://fw.cuav.net/apk/HFlight.apk)。
 
-对于 PW-Link 无线数传模块，HFlight 获取和显示飞控信息的步骤如下：
+对于PW-Link无线数传模块，HFlight获取和显示飞控信息的步骤如下：
 
-1. 确认 PW-Link与Pix飞控已经连接正常；
+1. 确认PW-Link与Pix飞控已经连接正常；
 
-2. 手机搜索 WiFi 网络，连接名称为：**CUAVWTR\_XXXXXX**的网络,默认密码:cuavwtr666.
+2. 手机搜索WiFi 网络，连接名称为：**CUAVWTR\_XXXXXX**的网络,默认密码:cuavwtr666.
 
-3. 打开 HFlight 手机软件，选择**UDP**连接方式，操作如图；
+3. 打开HFlight手机软件，选择**UDP**连接方式，操作如图；
 
 ![wtr8](../assets/wtr8.jpg)
 
