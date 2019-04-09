@@ -30,4 +30,4 @@ The WTR module has a high-performance Mavlink flight data checksum and fault tol
 
 ### System Framework Diagram
 
-![WTR24](../../assets/WTR24.jpg)
+![wtr24](../../assets/wtr24.jpg)
