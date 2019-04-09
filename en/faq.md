@@ -7,7 +7,7 @@
 
 SSID is CUAV WTR\_XXX (XXX is generated based on internal mac address)
 
-The WIFI password is: cuavwtr666(small letter)
+The WIFI password is: cuavwtr666
 
 #### How to change WTR WIFI name and password
 
