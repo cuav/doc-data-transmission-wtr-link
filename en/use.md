@@ -49,5 +49,4 @@ The computer-side ground station software is operated by Mission Planner. Specif
 4. Wait for data reception to complete;
 
 > Note: Some users report that the computer is connected to the PW-Link network, but the Mission Planner cannot receive data. The reason for this problem is because you have disabled network permissions.
->
-> Workaround: Open the **Control Panel**&gt;**Windows Firewall**&gt;**Allow apps to communicate through the firewall**&gt;**Open MP All Network Permission**.
+> **NOTE** Open the **Control Panel**&gt;**Windows Firewall**&gt;**Allow apps to communicate through the firewall**&gt;**Open MP All Network Permission**.
