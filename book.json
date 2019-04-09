@@ -3,6 +3,9 @@
   "description": "WIFI转数传模块",
   "language": "zh-hans",
   "plugins": [
+    "youtube",
+    "language-picker",
+    "anchors",
     "-sharing",
     "-highlight",
     "-livereload",
