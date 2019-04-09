@@ -26,6 +26,7 @@
 | WIFI 信息 |  |
 | SSID | CUAV\_WTR\_XXXXXX |
 | Passwrd | cuavwtr666 |
-|尺寸  |46\*31\*11mm
+|尺寸  |46\*31\*11mm|
+|重量|24g|
 
 
