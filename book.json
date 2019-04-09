@@ -3,6 +3,8 @@
   "description": "{WTR-LINK WIFI转数传模块}",
   "language": "zh-hans",
   "plugins": [
+    "youtube",
+    "language-picker",
     "anchors",
     "back-to-top-button",
     "page-toc-button",
