@@ -4,9 +4,9 @@
 
 #### WTR 的WIFI名称及密码
 
-SSID为 CUAV WTR\_XXX  （XXX为根据内部mac地址生成）
+SSID为 CUAV WTR\_XXX （XXX为根据内部mac地址生成）
 
-WIFI密码为：cuavwtr666  （小写）
+WIFI密码为：cuavwtr666 （小写）
 
 #### 怎么修改WTR的WIFI名称和密码
 
