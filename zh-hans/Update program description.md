@@ -4,7 +4,7 @@
 
 1.行烧录软件ESP8266Flasher.exe，点击**Advanced**选项，修改对应选项如图；
 
-![wtr5](../../assets/wtr5.jpg)
+![wtr5](../assets/wtr5.jpg)
 
 2.点击**Config**选项，点击右边三角符号把文件名称改为如下图，看绿色字体区域，点击该区域三角图标
 
@@ -12,15 +12,15 @@
 
 >**右边白色字体的文件名称改成绿色区域的文件名**
 
-![wtr111](../../assets/wtr111.png)
+![wtr111](../assets/wtr111.png)
 
 3.点击**Operation**选项，使用**烧录线**将 TTL 板与 电脑usb相连（可自制烧录线，看ttl小板及wtr\_link背后标识，将gnd、5v对应接上，rx、tx交叉接）选择对应的端口\(端口可在我的电脑》设备管理器》端口处查看），按住数传模块recovery按键并给模块上电，点击**Flash**按钮;
 
-![wtr3](../../assets/wtr3.jpg)
+![wtr3](../assets/wtr3.jpg)
 
 4.烧录成功提示图如下（烧录成功模块D2 led会闪\)
 
-![wtr14](../assets/wtr4.jpg)
+![wtr4](../assets/wtr4.jpg)
 
 >**NOTE**目前最新版本为：2.1.0，支持模块正常运行后，IO0短接GND超过5S即恢复网络默认配置的功能，蓝灯常亮或者熄灭表示恢复完成。切记不要同时短接和上电，这样是进入烧录程序模式。
 
