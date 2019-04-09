@@ -14,7 +14,7 @@
 
 ![wtr111](../assets/wtr111.png)
 
-3.点击**Operation**选项，使用**烧录线**将 TTL 板与 电脑usb相连（可自制烧录线，看ttl小板及wtr\_link背后标识，将gnd、5v对应接上，rx、tx交叉接）选择对应的端口\(端口可在我的电脑》设备管理器》端口处查看），按住数传模块recovery按键并给模块上电，点击**Flash**按钮;
+3.点击**Operation**选项，使用**烧录线**将TTL板与电脑usb相连（可自制烧录线，看ttl小板及wtr\_link背后标识，将gnd、5v对应接上，rx、tx交叉接）选择对应的端口\(端口可在我的电脑》设备管理器》端口处查看），按住数传模块recovery按键并给模块上电，点击**Flash**按钮;
 
 ![wtr3](../assets/wtr3.jpg)
 
