@@ -13,8 +13,6 @@ The WIFI password is: cuavwtr666 (small letter)
 
 Modify by downloading the CUAV [HFlight] (http://fw.cuav.net/apk/HFlight.apk) APP
 
-[http://fw.cuav.net/apk/HFlight.apk] (http://fw.cuav.net/apk/HFlight.apk)
-
 #### Support baud rate type
 
 Currently supports 57600 and 115200 baud rate adaptation
