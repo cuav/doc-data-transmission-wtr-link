@@ -22,6 +22,5 @@ Find the file with the same name on the right and click Open to set the file pat
 
 ![wtr4](../../assets/wtr4.jpg)
 
-###### The latest version is: 2.0.0. After the module is running normally, IO0 is shorted to GND over 5S to restore the default configuration of the network. The blue light is on or off indicates that the recovery is complete. Remember not to short-circuit and power up at the same time. This is to enter the programming mode.
+>**NOTE** The latest version is: 2.0.0. After the module is running normally, IO0 is shorted to GND over 5S to restore the default configuration of the network. The blue light is on or off indicates that the recovery is complete. Remember not to short-circuit and power up at the same time. This is to enter the programming mode.
 
-######
