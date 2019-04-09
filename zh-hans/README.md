@@ -8,7 +8,7 @@ WTR是由CUAV全新推出的一款应用于无人机地面站端WIFI转数传的
 
 ### 产品图示：
 
-![wtr666](../assets/wtr666.jpg)
+![wtr666](../assets/wtr66.jpg)
 
 ### 无线转发互联
 
