@@ -1,6 +1,6 @@
 ## update program description
 
-At present, there is no online update program for the wtr-Link module, which requires the user to manually update the program. Need to download [burn software] (http://fw.cuav.net/pc/ESP8266Flasher.rar) and [the latest version of the package] (http://fw.cuav.net/pc/wtrlink.rar) and unzip Packages. The specific programming steps are as follows:
+At present, there is no online update program for the wtr-Link module, which requires the user to manually update the program. Need to download [burn software](http://fw.cuav.net/pc/ESP8266Flasher.rar) and [the latest version of the package](http://fw.cuav.net/pc/wtrlink.rar) and unzip Packages. The specific programming steps are as follows:
 
 1 line burning software ESP8266Flasher.exe, click the ** Advanced** option, modify the corresponding options as shown;
 
