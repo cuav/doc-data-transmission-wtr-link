@@ -4,7 +4,7 @@
 
 ---
 
-**HFlight** Android mobile phone ground station is a mobile ground station officially promoted by **Leixun (CUAV)**. It is perfectly compatible with all products of the company and is welcome to download and use. Software download link: [HFlight] (http://fw.cuav.net/apk/HFlight.apk).
+**HFlight** Android mobile phone ground station is a mobile ground station officially promoted by **Leixun (CUAV)**. It is perfectly compatible with all products of the company and is welcome to download and use. Software download link: [HFlight](http://fw.cuav.net/apk/HFlight.apk).
 
 For PW-Link wireless data transmission module, HFlight acquires and displays flight control information as follows:
 
