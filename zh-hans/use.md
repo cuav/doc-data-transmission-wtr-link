@@ -42,7 +42,7 @@ HFlight提供了修改PW-Link网络配置的窗口，允许修改网络的**名�
 
 1. 电脑使用无线网卡连接网络**CUAVWlink\_XXXXXX**，密码**cuavwlink**；
 
-2. 打开 Mission Planner 软件，选择右上角选项**UDP**方式，点击连接按钮；
+2. 打开Mission Planner软件，选择右上角选项**UDP**方式，点击连接按钮；
 
 3. 最后，在弹出的端口编辑栏输入**14550**，点击确认；
 
