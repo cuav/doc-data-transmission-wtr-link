@@ -8,6 +8,9 @@ WTR is a new forwarding module applied to UAV ground station WIFI revolution dat
 
 ### Product Graphic:
 
+![wtr66](../assets/wtr66.jpg)
+
+
 ### Wireless Forwarding Internet
 
 In the case of special drone operations, long-distance communication links are often required, while traditional long-distance digital transmissions can only be connected to the computer through wired communication. This will make operators very vulnerable when temporarily setting up terrestrial communication stations. constraint.
