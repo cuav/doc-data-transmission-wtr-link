@@ -14,7 +14,7 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 3. Open HFlight mobile software, select **UDP** connection mode, operation as shown in figure;
 
-![](/assets/Untitled.jpg)
+![Untitled](../../assets/Untitled.jpg)
 
 4. Confirm the UDP server communication port and check if the port is **14550**;
 
@@ -28,7 +28,7 @@ For PW-Link wireless data transmission module, HFlight acquires and displays fli
 
 HFlight provides a window to modify the PW-Link network configuration, allowing you to modify the network's **name**,**password**,**channel**, and**for version information**. The specific operation method is to first open the HFlight mobile phone software side menu, click the system button, enter the system settings interface, long press the network settings icon. The operation is shown in the figure:
 
-![](/assets/WTR1.jpg) The specific procedure for the PW-Link configuration window is to first click on the query button to obtain the network information of the PW-Link module. After the success, modify the corresponding options. The operation is shown in the figure:
+![WTR1](../../assets/WTR1.jpg) The specific procedure for the PW-Link configuration window is to first click on the query button to obtain the network information of the PW-Link module. After the success, modify the corresponding options. The operation is shown in the figure:
 
 ### ![](/assets/WTR.jpg) Mission Planner connection
 
