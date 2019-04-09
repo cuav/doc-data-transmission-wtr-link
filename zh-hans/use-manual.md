@@ -1,6 +1,6 @@
 ### 系统框架图
 
-![WTR24](../../assets/WTR24.jpg)
+![WTR24](../assets/WTR24.jpg)
 ###CUAV P900连接使用
 
 飞机端按照 P900正常连接方式连接飞控；地面端通过cuav官方制作的wtr link与P900连接线连接
