@@ -8,7 +8,7 @@
 
 对于 PW-Link 无线数传模块，HFlight 获取和显示飞控信息的步骤如下：
 
-1. 确认 PW-Link 与 Pix 飞控已经连接正常；
+1. 确认 PW-Link与 Pix飞控已经连接正常；
 
 2. 手机搜索 WiFi 网络，连接名称为：**CUAVWTR\_XXXXXX**的网络,默认密码:cuavwtr666.
 
